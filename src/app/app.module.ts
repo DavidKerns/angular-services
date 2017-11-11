@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { MyCounterComponent } from './my-counter/my-counter.component';
 import { MySecondCounterComponent } from './my-second-counter/my-second-counter.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
